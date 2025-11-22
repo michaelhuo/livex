@@ -1,0 +1,4 @@
+.env
+livex_logs.txt
+__pycache__/
+*.pyc

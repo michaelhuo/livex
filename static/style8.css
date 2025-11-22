@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FAFAFA;
+    color: #607D8B;
+}
+
+.welcome-message {
+    background-color: #E91E63;
+    color: #607D8B;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.response-text {
+    background-color: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px 0;
+    border-left: 5px solid #CFD8DC;
+}
+
+.thinking-output.error {
+    background-color: #E91E63;
+    color: #607D8B;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.stProgress > div > div {
+    background: linear-gradient(to right, #E91E63, #CFD8DC);
+    height: 10px;
+    border-radius: 5px;
+}
